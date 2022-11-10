@@ -1,0 +1,27 @@
+[
+    {
+        "UserId":1,
+        "UserName":"Smita",
+        "UserEmail":"smita@gmail.com",
+        "Usermobile":1234567899,
+        "Useraddress":"Aurangabad",
+        "Userpassword":"123"
+    },
+    {
+        "UserId":2,
+        "UserName":"Anita",
+        "UserEmail":"Anita@gmail.com",
+        "Usermobile":1234587599,
+        "Useraddress":"Pune",
+        "Userpassword":"103"
+    }
+    ,
+    {
+        "UserId":3,
+        "UserName":"Amruta",
+        "UserEmail":"Amruta@gmail.com",
+        "Usermobile":8834587599,
+        "Useraddress":"Pune",
+        "Userpassword":"345"
+    } 
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Taj",
+        "address":"Mumbai",
+        "MobNo":1234567899
+    },
+    {
+        "id":2,
+        "title":"Maharaja",
+        "address":"Pune",
+        "MobNo":12345453229
+    }
+    ,
+    {
+        "id":3,
+        "title":"Hotel Seven Olive",
+        "address":"Delhi",
+        "MobNo":12345453229
+    },
+    {
+        "id":4,
+        "title":"Hotel Taj",
+        "address":"Mumbai",
+        "MobNo":12345453229
+    }
+]
